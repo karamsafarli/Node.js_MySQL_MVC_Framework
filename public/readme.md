@@ -1,0 +1,1 @@
+All static files such as images, css files and etc. should be placed in this folder.
